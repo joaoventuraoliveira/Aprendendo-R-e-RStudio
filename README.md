@@ -1,7 +1,8 @@
-# Aprendendo-R-e-RStudio
-Sejam bem vindos!
+# Learn R and RStudio for  biological and cognitive researchs
 
-Material para as aulas relacionadas à programação e análise de dados em R.
-Esta versão está relacionada com as aulas  básicas  da linguagem de programação R.
-As aulas são exclusivas para alunos do Grupo de Pesquisa em Psicologia do Esporte e Comportamento Motor (GEPECOM) da Universidade do Estado de Minas Gerais (UEMG) - Unidade Ibirité.
-Para maiiores informações, enviar e-mail para: venturaoliveira.jr@gmail.com.
+Welcome for all!
+
+These materials corresponding to the course about R programing for analysing, visualization and document building of researchs related of Sport Psychology, Motor Behavior and associated areas, offered by Research Group in Sport Psychology and Motor Behavior of State University of Minas Gerais (UEMG, Brasil).
+You can send e-mail for  more informations to: venturaoliveira.jr@gmail.com
+
+Good studies!
